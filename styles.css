@@ -1,0 +1,22 @@
+#web {
+  text-align: center;
+  font-size: large;
+  font-style: oblique;
+}
+
+#first {
+    font-size: Large;
+    font-weight: bold;
+  }
+
+#Artic {
+  display: img id="bigpic" src="Artic.jpg" style="display:Artic.jpg;";
+}
+
+#third {
+  font-weight: bold;
+}
+
+#dropdown-menu {
+  font-color: blue;
+}
